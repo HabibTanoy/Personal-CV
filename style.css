@@ -1,0 +1,266 @@
+.border {
+    border: 1px solid black;
+}
+
+.name {
+    font-size: 60px;
+    color: #000;
+    font-weight: 600;
+    opacity: 0.8;
+    font-family: "roboto", sans-serif;
+    margin-top: 155px;
+}
+h4 {
+
+    color: #000;
+    line-height: 34px;
+    font-weight: bold;
+    opacity: 0.8;
+    font-size: 29px;
+    margin-left: 68px;
+    margin-bottom: 30px;
+}
+.info-deatils {
+    list-style-type:none;
+    margin-bottom: 42px;
+}
+
+ul li {
+    margin: 10px 0px;
+}
+a {
+    color: #000;
+    opacity: 0.9;
+    font-size: 15px;
+    line-height: 14px;
+    font-weight: 600;
+}
+.my-info {
+    margin-right: 12px;
+}
+.my-address {
+    color: #000;
+    opacity: 0.8;
+    font-size: 15px;
+    line-height: 14px;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.social-icons {
+    font-size: 30px;
+   line-height: 30px;
+   padding: 3px 0px;
+   margin-right: 20px;
+}
+
+.p-img {
+    width: 385px;
+    height: 390px;
+    border: 20px solid rgba(0, 0, 0, 0.17);
+    
+    border-radius: 50%;
+
+}
+
+.image {
+    border: 20px solid rgba(0, 0, 0, 0.07);
+    border-radius: 50%;
+    margin: 100px 0px 0px 115px;
+}
+.about {
+    margin: 20px 0px 20px 0px;
+    color: #000;
+    opacity: 0.8;
+    font-weight: bold;
+    font-size: 2rem;
+}
+.p-type {
+    color: #000;
+    opacity: 0.8;
+    font-family: "roboto", sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.font {
+   margin-bottom: 70px;
+}
+
+.font-type {
+    border: 1px solid #0bceaf;
+    margin: 0px 6px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.btn{
+    background-color: #0bceaf;
+    padding: 8px 30px;
+    border-radius: 20px;
+    margin-right: 100px;
+}
+.btn a {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.h-type {
+    margin-bottom: 60px;
+    opacity: 0.8;
+    color: #000;
+    font-weight: 600;
+    text-align: center;
+}
+
+.card {
+    height: 250px;
+    width: 22rem;
+     background-color: #fff;
+      box-shadow: 0px 10px 20px 4px #00000015;
+}
+
+.card-title {
+    text-align: center;
+    color: #000;
+    font-weight: 600;
+    opacity: 0.8;
+    margin-bottom: 18px;
+    line-height: 34px;
+}
+
+.card-text {
+    opacity: 0.8;
+    color: #000;
+    font-size: 15px;
+}
+
+.tech {
+    font-size: 30px;
+    text-align: center;
+    line-height: 40px;
+    font-weight: bold;
+    margin-bottom: 60px;
+}
+
+.skill {
+    display: inline-block;
+    width: 100%;
+    vertical-align: middle;
+    margin-bottom: 15px;
+}
+
+
+
+.js {
+    top: 0;
+    left: 0;
+    font-size:15px ;
+    font-weight: 600;
+    opacity: 0.9;
+    color: #000;
+}
+
+.percent {
+    top: 0;
+    right: 0;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.pro-skill {
+    font-size: 30px;
+    text-align: center;
+    line-height: 40px;
+    font-weight: bold;
+    margin-bottom: 60px;
+}
+
+.edu {
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: bold;
+    margin-bottom: 60px;
+}
+
+.scl {
+    margin-bottom: 30px;
+    padding: 26px 30px;
+}
+
+.scl-name {
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.year {
+    margin: 10px 0px;
+    color: #0bceaf;
+}
+
+.around {
+    box-shadow: 0px 10px 20px 4px #00000015;
+}
+
+.scl-info {
+    opacity: 0.8;
+    color: #000;
+    margin-top: 0;
+    font-size: 14px;
+    line-height: 23px;
+    margin-bottom: 0;
+    font-weight: 600;
+}
+
+.new-addr {
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    box-shadow: 0px 10px 20px 4px #00000015;
+}
+
+.add-new-icon {
+    margin-bottom: 30px;
+}
+
+.fonts-icon {
+    width: 38%;
+    height: 106px;
+    border: 1px solid;
+    border-radius: 50%;
+    line-height: 100px;
+    font-size: 20px;
+    border-color: #0bceaf;
+}
+
+.addr-info {
+    opacity: 0.8;
+    color: #000;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.response {
+    font-size: 12px;
+    line-height: 22px;
+    font-weight: bold;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.ex-type {
+    font-size: 10px;
+    margin-right: 10px;
+}
+
+.val-type {
+    font-size: 14px;
+    line-height: 23px;
+    font-weight: 600;
+}
